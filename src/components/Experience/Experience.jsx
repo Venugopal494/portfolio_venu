@@ -20,7 +20,7 @@ export default function Experience() {
         "Involved in debugging, enhancement, and optimization of automotive software tools"
       ],
       tools: "Tools Used: SIL System Integration, C++, Python, Qt, Docker, Linux",
-      icon: "assets/ZF.svg.png",
+      icon: "/assets/ZF.svg.png",
       featured: true,
     },
   ];
