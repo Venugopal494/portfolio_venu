@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio_venu/static/css/main.826eebd2.css",
+    "main.js": "/portfolio_venu/static/js/main.f26a4295.js",
+    "index.html": "/portfolio_venu/index.html",
+    "main.826eebd2.css.map": "/portfolio_venu/static/css/main.826eebd2.css.map",
+    "main.f26a4295.js.map": "/portfolio_venu/static/js/main.f26a4295.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.826eebd2.css",
+    "static/js/main.f26a4295.js"
+  ]
+}
